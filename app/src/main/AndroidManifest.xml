@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.todomvvm">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".tasks.GetAllUsers" android:label="TO-DO ALL USERS">
+        </activity>
+        <activity android:name=".tasks.FragmentTab" android:label="TO-DO FRAGMENTS"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".Recycle_View.DetailActivity"  />
+        <activity android:name=".Recycle_View.recycle_view" />
+        <activity android:name=".tasks.SignUp" />
+        <activity android:name=".tasks.Register" android:label="TO-DO USER REGISTER"/>
+        <activity
+            android:name=".addedittask.AddEditTaskActivity"
+            android:label="Add a new Task"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".addedittask.AddEditUserActivity"
+            android:label="Add User"
+            />
+        <activity android:name=".tasks.SplashScreenActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".tasks.MainActivity"></activity>
+
+    </application>
+
+</manifest>

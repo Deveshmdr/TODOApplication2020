@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrounddd">
+
+    <TextView android:id="@+id/title"
+        android:text="Login Form"
+        android:textSize="22dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:background="@color/colorAccent"
+        android:textColor="@color/colorwhite"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText android:layout_below="@id/title"
+        android:hint="Username"
+        android:inputType="text"
+        android:maxLength="10"
+        android:layout_margin="10dp"
+        android:id="@+id/Username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText android:layout_below="@id/Username"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:maxLength="10"
+        android:layout_margin="10dp"
+        android:id="@+id/Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login"
+        android:text="Login"
+        android:layout_below="@id/Password"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:drawable="@color/colorPrimary"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/signup"
+        android:text="Signup"
+        android:textAllCaps="false"
+        android:layout_toRightOf="@+id/login"
+        android:layout_alignTop="@+id/login"
+        />
+
+    <CheckBox
+        android:id="@+id/remember"
+        android:text="Remember"
+        android:textAllCaps="false"
+        android:layout_below="@id/login"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/forgotpassword"
+        android:text="Forgot Password"
+        android:textAllCaps="false"
+        android:layout_below="@+id/remember"
+        android:layout_margin="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        />
+</RelativeLayout>

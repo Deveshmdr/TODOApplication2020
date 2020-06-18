@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colors for general appearance -->
+    <color name="colorPrimary">#EC5D5c</color>
+    <color name="colorPrimaryDark">#EC5D5D</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#EC5D5D</color>
+    <color name="coloryelo">#D8A393</color>
+    <color name="colorwhite">#FFF</color>
+    <color name="black">#000000</color>
+
+    <!-- colors taskEntrytask priority selection -->
+    <color name="materialRed">#E74C3C</color>
+    <color name="materialOrange">#E67E22</color>
+    <color name="materialYellow">#F1C40F</color>
+
+
+
+
+    <!-- Text color for the Sandwich label -->
+    <color name="color_label_text">#FF8341</color>
+    <!-- Text color for the Sandwich detail -->
+    <color name="color_detail_text">#5A267F</color>
+</resources>

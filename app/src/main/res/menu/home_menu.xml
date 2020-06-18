@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+<!--    <item-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:icon="@drawable/arrow"-->
+<!--        android:id="@+id/logout"-->
+<!--        android:title="Logout"/>-->
+
+    <item
+        android:id="@+id/menu1"
+        android:title="Sign_In"/>
+    <item
+        android:id="@+id/menu2"
+        android:title="Sign_Up"/>
+    <item
+        android:id="@+id/menu3"
+        android:title="Members"/>
+    <item
+        android:id="@+id/menu4"
+        android:title="Example for Fragments"/>
+    <item
+        android:id="@+id/menu7"
+        android:title="Go To GitHub"/>
+    <item
+        android:id="@+id/menu6"
+        android:title="TOAST">
+    </item>
+</menu>
