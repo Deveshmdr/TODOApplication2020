@@ -1,13 +1,14 @@
 # Developing Mobile Application 2020
-Module Leader: BINAY SHAH<br>
-By: DEVESH MANANDHAR
+<b>Module Leader: BINAY SHAH</b><br>
+<b>By: DEVESH MANANDHAR</b>
+<b>By: DEVESH MANANDHAR</b>
 
 
 ## ToDo Application
 - This application is simple example of ToDo list app with many requirement and extra features provided by university guideline. 
 - This application based on JAVA using ROOM And MVVM. The code provided by module leader was used.
 - Entities, Fragments, Toast, Dialogue, NavigationView, Splash Screen. 
-### Changing App Logo
+## Changing App Logo
 
 ![](images/logo.jpg)
 
@@ -16,42 +17,40 @@ By: DEVESH MANANDHAR
 ![](images/s.gif)
 
 
-### Adding task and List of Tasks
+## Adding task and List of Tasks
    - Use of toast
    - Date Picker
    - Drag task to Arrange
     
    ![](images/add.gif)
     
-### Deleting and Rearranging Task Using OnSwipe Method</b>
-    
-   - Use of Toast
+## Deleting and Rearranging Task Using OnSwipe Method</b>
 ![](images/drag.gif)
 
-### Drawer Navigation
+## Drawer Navigation
 ![](images/nav.gif)
 
-### Menu for:
+## Menu for:
    #### Sign In
    
 ![](images/in.gif)
         
-   #### Register
+   ### Register
 
 ![](images/reg.gif)
     
-   #### List Of Members
+   ### List Of Members
 
 ![](images/rlist.gif)
     
-   #### Link For Git Repo
+   ### Link For Git Repo
 
 ![](images/Git.gif)
     
-   #### Use Of Fragments 
+   ### Use Of Fragments 
 
 ![](images/frag.gif)
 
-### Use of Dialouge box
+## Use of Dialouge box
 
 ![](images/dia.gif)
