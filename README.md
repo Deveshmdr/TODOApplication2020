@@ -1,6 +1,6 @@
 # Developing Mobile Application 2020
-<b>Module Leader: BINAY SHAH</b><br>
-By: DEVESH MANANDHAR</b>
+Module Leader: BINAY SHAH
+By: DEVESH MANANDHAR
 
 
 <h1>ToDo Application</h1>
@@ -13,6 +13,6 @@ This application based on JAVA using ROOM And MVVM. The code provided by module 
 Use of SplashScreen
 <img src="images/screen.jgp" width="50" height="50">
 
-#
-Use Of Splash Screen
+#Use Of Splash Screen
+
 ![](SplashScreen.mp4)
