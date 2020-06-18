@@ -8,8 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="8dp"
-    tools:context="com.example.android.todolist.MainActivity"
-    android:background="@drawable/backgrounddd">
+    tools:context="com.example.android.todolist.MainActivity">
 
     <LinearLayout
         android:layout_width="0dp"
@@ -30,9 +29,10 @@
                 style="@style/TextAppearance.AppCompat.Medium"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_marginRight="155dp"
+                android:layout_marginRight="100dp"
                 android:textColor="@android:color/primary_text_light"
-                tools:text="title" />
+                tools:text="title"
+                android:textStyle="bold"/>
 
         </LinearLayout>
         <!-- TextView that displays the description -->

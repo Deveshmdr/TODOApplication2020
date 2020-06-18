@@ -167,6 +167,7 @@ public class AddEditTaskActivity extends AppCompatActivity {
         Toast toast = Toast.makeText(getApplicationContext(),
                 "List Updated",
                 Toast.LENGTH_SHORT);
+        toast.show();
         finish();
 
     }

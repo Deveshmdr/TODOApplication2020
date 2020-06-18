@@ -205,7 +205,7 @@ public class MainActivity extends AppCompatActivity implements TaskAdapter.ItemC
                 Toast.makeText(MainActivity.this,"Thank you",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.menu7:
-                Intent implicit = new Intent(Intent.ACTION_VIEW, Uri.parse("https://Github.com/"));
+                Intent implicit = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/Deveshmdr/TODOApplication2020"));
                 startActivity(implicit);
 
         }

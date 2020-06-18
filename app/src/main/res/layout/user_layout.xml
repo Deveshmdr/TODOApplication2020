@@ -8,8 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="8dp"
-    tools:context="com.example.todomvvm.tasks.get_all_Users"
-    android:background="@drawable/backgrounddd">
+    tools:context="com.example.todomvvm.tasks.get_all_Users">
 
     <LinearLayout
         android:layout_width="0dp"
