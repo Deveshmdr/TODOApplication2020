@@ -1,7 +1,6 @@
 # Developing Mobile Application 2020
 <b>Module Leader: BINAY SHAH</b><br>
 <b>By: DEVESH MANANDHAR</b>
-<b>By: DEVESH MANANDHAR</b>
 
 
 ## ToDo Application
@@ -25,18 +24,27 @@
    ![](images/add.gif)
     
 ## Deleting and Rearranging Task Using OnSwipe Method</b>
+   - Display Toast Message after swipe delete
+   - Task can be rearranged by long pressing the task and dragging.
+   
 ![](images/drag.gif)
 
 ## Drawer Navigation
+   - Use of Drawer NavigationView
+     
 ![](images/nav.gif)
 
-## Menu for:
+## Menu COnsisting of 
+   - I used menu to show other features shown below
+    
    #### Sign In
+   - I was unable to join login with database. This Function works but is Incomplete.
    
 ![](images/in.gif)
         
    ### Register
-
+   - User can be member of the app.
+   
 ![](images/reg.gif)
     
    ### List Of Members
@@ -44,11 +52,11 @@
 ![](images/rlist.gif)
     
    ### Link For Git Repo
-
+   - I have linked my Git Repo in this app.
 ![](images/Git.gif)
     
    ### Use Of Fragments 
-
+   
 ![](images/frag.gif)
 
 ## Use of Dialouge box
