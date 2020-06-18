@@ -6,7 +6,6 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.todomvvm.database.Repository;
 
 public class AddEditTaskViewModelFactory extends ViewModelProvider.NewInstanceFactory {
 
