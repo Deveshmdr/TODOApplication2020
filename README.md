@@ -1,5 +1,5 @@
 # Developing Mobile Application 2020
-Module Leader: BINAY SHAH
+Module Leader: BINAY SHAH<br>
 By: DEVESH MANANDHAR
 
 
@@ -10,10 +10,7 @@ Changing App Logo
 
 ![](logo.jpg)
 
-#Use Of Splash Screen
+Demo:
 
-![](SplashScreen.mp4)
-
-# Use Of Splash Screen
-![](s.mp4)
+![](s.gif)
 
