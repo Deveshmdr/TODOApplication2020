@@ -32,20 +32,26 @@ By: DEVESH MANANDHAR
 ![](images/nav.gif)
 
 ### Menu for:
-   - Sign In
-    ![](images/in.gif)
+   #### Sign In
+   
+![](images/in.gif)
         
-   - Register
-    ![](images/reg.gif)
+   #### Register
+
+![](images/reg.gif)
     
-   - List Of Members
-    ![](images/rlist.gif)
+   #### List Of Members
+
+![](images/rlist.gif)
     
-   * Link For Git Repo
-    ![](images/Git.gif)
+   #### Link For Git Repo
+
+![](images/Git.gif)
     
-   * Use Of Fragments 
-    ![](images/frag.gif)
+   #### Use Of Fragments 
+
+![](images/frag.gif)
 
 ### Use of Dialouge box
+
 ![](images/dia.gif)
