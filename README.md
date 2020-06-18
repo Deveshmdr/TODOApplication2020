@@ -12,8 +12,7 @@ Changing App Logo
 
 Features
 Use of SplashScreen
-<img src="screen.jgp" width="50" height="50">
+![](Screen.jpg)
 
 # Use Of Splash Screen
-
 ![](SplashScreen.mp4)
