@@ -3,16 +3,17 @@ Module Leader: BINAY SHAH
 By: DEVESH MANANDHAR
 
 
-<h1>ToDo Application</h1>
-<p>This application is simple example of ToDo list app with many requirement and extra features provided by university guideline. 
+ToDo Application
+This application is simple example of ToDo list app with many requirement and extra features provided by university guideline. 
 This application based on JAVA using ROOM And MVVM. The code provided by module leader was used.</p>
-<H2>Changing App Logo</H2>
-![](logo.jpg)
+Changing App Logo
 
-<h3>Features</h3>
-Use of SplashScreen
-<img src="images/screen.jgp" width="50" height="50">
+![](logo.jpg)
 
 #Use Of Splash Screen
 
 ![](SplashScreen.mp4)
+
+# Use Of Splash Screen
+![](s.mp4)
+
