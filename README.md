@@ -1,5 +1,5 @@
 # Developing Mobile Application 2020
-Module Leader: <b>BINAY SHAH<b>
+Module Leader: <b>BINAY SHAH<b><br>
 By: <b>DEVESH MANANDHAR<b>
 
 
@@ -7,8 +7,10 @@ By: <b>DEVESH MANANDHAR<b>
 <p>This application is simple example of ToDo list app with many requirement and extra features provided by university guideline. 
 This application based on JAVA using ROOM And MVVM. The code provided by module leader was used.</p>
 <H2>Changing App Logo</H2>
-<img src="images/logo.jgp width="50" height="100">
+<img src="images/logo.JPG" width="100" height="100">
 <h3>Features</h3>
 *Use of SplashScreen
-<img src="images/screen.jgp width="50" height="50">
+<img src="images/screen.jgp" width="50" height="50">
+
+#
 ![]SplashScreen.mp4
